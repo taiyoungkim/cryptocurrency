@@ -1,2 +1,2 @@
 # cryptocurrency
-# Clean Architecture + MVVM + Use Cases + Compose
+## Clean Architecture + MVVM + Use Cases + Compose
